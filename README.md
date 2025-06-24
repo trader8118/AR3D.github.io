@@ -1047,7 +1047,24 @@
                 <!-- Mid-content Ad Space -->
                 <div class="ad-space">
                     <p>Advertisement</p>
-                    <!-- Google AdSense code will go here -->
+                    <!-- <!-- After the <header> closing tag -->
+<div class="container">
+    <div class="ad-space">
+        <p>Advertisement</p>
+        <!-- PASTE YOUR FIRST AD CODE HERE -->
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7399971842067739"
+             crossorigin="anonymous"></script>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7399971842067739"
+             data-ad-slot="8755755081"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div> -->
                     <!-- Replace this with your AdSense code -->
                     <div id="mid-content-ad">
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
