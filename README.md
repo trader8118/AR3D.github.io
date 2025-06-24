@@ -1154,7 +1154,8 @@
                 <!-- Bottom Ad Space -->
                 <div class="ad-space">
                     <p>Advertisement</p>
-                    <!-- Google AdSense code will go here -->
+                    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7399971842067739"
+     crossorigin="anonymous"></script> -->
                     <!-- Replace this with your AdSense code -->
                     <div id="bottom-content-ad">
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
