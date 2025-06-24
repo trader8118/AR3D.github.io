@@ -945,8 +945,10 @@
     <div class="container">
         <div class="ad-space">
             <p>Advertisement</p>
-            <!-- Google AdSense code will go here -->
-            <!-- Replace this with your AdSense code -->
+            <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7399971842067739"
+     crossorigin="anonymous"></script> -->
+            <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7399971842067739"
+     crossorigin="anonymous"></script> -->
             <div id="top-banner-ad">
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID"
                      crossorigin="anonymous"></script>
